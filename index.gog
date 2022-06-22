@@ -1,0 +1,16 @@
+! name: Web3
+! description: Brave Search goggle for Web3 searches. Boosts DeFi, crypto blogs & publications, and Dapps
+! public: true
+! author: PublicIndex
+! avatar: #852AF8
+
+! Boost
+$boost=4,site=dappradar.com
+$boost=4,site=dapp.com
+$boost=4,site=liquidapps.io
+$boost=2,site=coingecko.com
+$boost=2,site=coinmarketcap.com
+$boost=2,site=cointelegraph.com
+$boost=2,site=decrypt.co
+$boost=2,site=coindesk.com
+$boost=2,site=bitcoinist.com
